@@ -1,0 +1,26 @@
+
+bsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(Î©“¥
+bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(óú°Ð
+Qsquid:S1161":Add the "@Override" annotation above this method signature(«ÃÀ÷
+ssquid:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(î×îúÿÿÿÿ
+qsquid:S1450"ZRemove the "databaseImp" field and declare it as a local variable in the relevant methods.( ž´
+xsquid:S1450"\Remove the "mRecyclerView" field and declare it as a local variable in the relevant methods.(Òéýÿÿÿÿ
+Nsquid:S1135_"2Complete the task associated to this TODO comment.(è÷ãŸøÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(­©³Åÿÿÿÿÿ
+Isquid:S1135‚"2Complete the task associated to this TODO comment.(À±ø
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸î¢ê
+gsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(£ïµ˜ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(Ô‰Öûøÿÿÿÿ
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+bsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(Âº®ý
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ùäÃ»
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(”ÄØùÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(×³€Èþÿÿÿÿ
+bsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ì°Ø
+Isquid:S1135E"2Complete the task associated to this TODO comment.(‰Õ¨¶
+Asquid:S00108-")Either remove or fill this block of code.(ý¶Ýê
+Xsquid:S1854$"<Remove this useless assignment to local variable "carsList".(ÎøÞ÷þÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â©Ä
+tsquid:S1450"]Remove the "mLayoutManager" field and declare it as a local variable in the relevant methods.(¡¾•Ÿ
+asquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(¹‹„ 

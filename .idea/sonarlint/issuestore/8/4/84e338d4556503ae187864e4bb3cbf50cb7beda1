@@ -1,0 +1,28 @@
+
+Hsquid:S1659%"%Declare "mMinute" on a separate line.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Qsquid:S1068".Remove this unused "ARG_PARAM1" private field.(ìæ”æÿÿÿÿÿ8¸íÀ¿‚-
+Gsquid:S1659%"$Declare "mMonth" on a separate line.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Ksquid:S1068".Remove this unused "ARG_PARAM2" private field.(’øë58¸íÀ¿‚-
+msquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p8¸íÀ¿‚-
+Msquid:S1068%"*Remove this unused "mMonth" private field.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+usquid:S00116"VRename this field "moving_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆõÄÄ8¸íÀ¿‚-
+Ksquid:S1068"(Remove this unused "time" private field.(È²¯úÿÿÿÿ8¸íÀ¿‚-
+zsquid:S00116"VRename this field "no_of_seats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í ©ûÿÿÿÿ8¸íÀ¿‚-
+usquid:S00116"VRename this field "moving_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´°Å8¸íÀ¿‚-
+Isquid:S1068"+Remove this unused "mParam2" private field.(¡ˆ€ 8¸íÀ¿‚-
+usquid:S00116 "QRename this field "to_des" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”Èèùÿÿÿÿ8¸íÀ¿‚-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8¸íÀ¿‚-
+Fsquid:S1659%"#Declare "mHour" on a separate line.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Ksquid:S1185'"(Remove this method to simply inherit it.(¨Œşÿÿÿÿ8¸íÀ¿‚-
+Msquid:S1068$"/Remove this unused "databaseImp" private field.( ´8¸íÀ¿‚-
+Lsquid:S1068%")Remove this unused "mYear" private field.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Ksquid:S1068%"(Remove this unused "mDay" private field.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Isquid:S1068"+Remove this unused "mParam1" private field.(•Íï‘8¸íÀ¿‚-
+Usquid:S1135"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ8¸íÀ¿‚-
+Lsquid:S1068%")Remove this unused "mHour" private field.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Esquid:S1659%""Declare "mDay" on a separate line.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+Ssquid:S1068""0Remove this unused "DATABASENAME" private field.(òß„˜şÿÿÿÿ8¸íÀ¿‚-
+Nsquid:S1068%"+Remove this unused "mMinute" private field.(Ë¯Æ¸üÿÿÿÿ8¸íÀ¿‚-
+hsquid:UselessImportCheck">Remove this unused import 'android.support.v7.widget.Toolbar'.(à½£8¸íÀ¿‚-
+zsquid:UselessImportCheck"ORemove this unused import 'android.support.design.widget.FloatingActionButton'.(„Ÿ¹¼8¸íÀ¿‚-
+msquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(”¹8œş š-

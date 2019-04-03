@@ -1,0 +1,39 @@
+
+?squid:S16596"#Declare "mHour" on a separate line.(Ë¯Æ¸üÿÿÿÿ
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ùŽÉ‡
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ÆƒÈë
+hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(¯Õêüÿÿÿÿ
+Nsquid:S1135&"2Complete the task associated to this TODO comment.(ðï¢öúÿÿÿÿ
+Jsquid:S1068#".Remove this unused "ARG_PARAM1" private field.(ìæ”æÿÿÿÿÿ
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(”ÄØùÿÿÿÿ
+Dsquid:S1068$".Remove this unused "ARG_PARAM2" private field.(’øë5
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(î¬¸üÿÿÿÿ
+hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(‡¬’õûÿÿÿÿ
+Isquid:S1905I"+Remove this unnecessary cast to "EditText".(ŽÌïÍ8™­Í¤‘-
+Bsquid:S1068("+Remove this unused "mParam2" private field.(¡ˆ€ 
+hsquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(úãþ©
+Jsquid:S1135à"2Complete the task associated to this TODO comment.(í“®
+@squid:S16596"$Declare "mMonth" on a separate line.(Ë¯Æ¸üÿÿÿÿ
+nsquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÑ ûÿÿÿÿ
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(œÏªË
+Dsquid:S1068)"(Remove this unused "time" private field.(È²¯úÿÿÿÿ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(ýí¾Ûúÿÿÿÿ
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ïïÕ˜þÿÿÿÿ
+jsquid:S00101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âË„ÿÿÿÿÿ
+ssquid:S00116+"VRename this field "no_of_seats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í ©ûÿÿÿÿ
+\squid:UselessImportCheck"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ
+Nsquid:S1905J"+Remove this unnecessary cast to "EditText".(š·¿´ýÿÿÿÿ8™­Í¤‘-
+Qsquid:S11618":Add the "@Override" annotation above this method signature(«ÃÀ÷
+>squid:S16596""Declare "mDay" on a separate line.(Ë¯Æ¸üÿÿÿÿ
+csquid:CommentedOutCodeLineÐ"<This block of commented-out lines of code should be removed.(Ø€Ç“
+csquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ô™†ì
+Nsquid:S1135!"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(ª¤¬èÿÿÿÿÿ
+Jsquid:S1135½"2Complete the task associated to this TODO comment.(¯¡á´
+Asquid:S16596"%Declare "mMinute" on a separate line.(Ë¯Æ¸üÿÿÿÿ
+Osquid:S1135¤"2Complete the task associated to this TODO comment.(äŸÿØùÿÿÿÿ
+nsquid:S001161"QRename this field "to_des" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó”Èèùÿÿÿÿ
+nsquid:S00116-"VRename this field "moving_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´°Å
+nsquid:S00116,"VRename this field "moving_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆõÄÄ
+Bsquid:S1068'"+Remove this unused "mParam1" private field.(•Íï‘

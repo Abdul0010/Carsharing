@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities">
+        <item>المكلا</item>
+        <item>الشحر</item>
+        <item>الديس</item>
+        <item>الحامي</item>
+        <item>سيون</item>
+        <item>الغيظه</item>
+
+    </string-array>
+</resources>

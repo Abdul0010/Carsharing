@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mdtp_white"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/taxi3"
+
+        />
+
+
+      <!--/>-->
+
+        <!--&lt;!&ndash;  Email Label &ndash;&gt;-->
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/driver"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@color/primaryDarkColor"
+            android:padding="12dp"
+            android:text="سائق"
+            android:textColor="@color/primaryTextColor" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/passangers"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/primaryDarkColor"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="140dp"
+        android:padding="12dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="راكب"
+        android:textColor="@color/primaryTextColor" />
+
+
+
+</RelativeLayout>

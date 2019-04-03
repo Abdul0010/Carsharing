@@ -1,0 +1,13 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8ÛºÐçí,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î×Ò²ÿÿÿÿÿ8ÛºÐçí,
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(åµ»Ùüÿÿÿÿ8ÛºÐçí,
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ÏòÀäýÿÿÿÿ8ÛºÐçí,
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(­ÝÏ›ýÿÿÿÿ8ÛºÐçí,
+]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ð‹G8ÛºÐçí,
+hsquid:UselessImportCheck">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8ÛºÐçí,
+nsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¿ô½Þþÿÿÿÿ8ÛºÐçí,
+\"squid:SwitchLastCaseIsDefaultCheckE""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ÛºÐçí,
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ä§ßí8ÛºÐçí,
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÿÕÖu8ÛºÐçí,
+msquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(²Ú±Ž8Ûþ žš-

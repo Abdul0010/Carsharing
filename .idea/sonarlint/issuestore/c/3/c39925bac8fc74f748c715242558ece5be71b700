@@ -1,0 +1,11 @@
+
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Ñ¾õ ûÿÿÿÿ8¬ë¸¡š-
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÄÂÚ´
+bsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ý…ù¯
+.squid:S2176J"Rename this class.(Â×žÖúÿÿÿÿ
+bsquid:UselessImportCheck	"2Remove this unused import 'android.widget.Button'.(²òžýÿÿÿÿ8ïã¦¡š-
+Asquid:S1068"+Remove this unused "context" private field.(êÝç
+Rsquid:S1481/"6Remove this unused "mExpandedPosition" local variable.(ÃÊ¤Ôøÿÿÿÿ
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(¾æ–Âûÿÿÿÿ8Þ‡¹¡š-
+Ksquid:S1481."-Remove this unused "carslist" local variable.(½æµ¤8Þ‡¹¡š-
+Zsquid:S1854."<Remove this useless assignment to local variable "carslist".(½æµ¤8Þ‡¹¡š-

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fra2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="18dp"
+    android:layout_gravity="center"
+    android:text="اضف سيارتك للفلزه"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+
+            android:orientation="horizontal">
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#C7C7CD"
+        android:id="@+id/ffffff"
+
+     >
+        <AutoCompleteTextView
+            android:maxLines="1"
+            android:padding="7dp"
+            android:inputType="text"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionUnspecified"
+            android:id="@+id/name"
+            android:hint="الاسم"
+            android:imeActionLabel="@string/name" />
+
+    </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+
+            android:orientation="horizontal">
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="#C7C7CD"
+                android:id="@+id/passangers"
+
+                >
+                <AutoCompleteTextView
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionUnspecified"
+                    android:id="@+id/number"
+                    android:hint="عدد الركاب"
+                    android:imeActionLabel="@string/name" />
+
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="2"
+
+        android:orientation="horizontal">
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="100dp"
+            android:gravity="left"
+            android:layout_height="wrap_content"
+            android:textColorHint="#C7C7CD"
+            android:id="@+id/date"
+
+            >
+            <EditText
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/in_date"
+                android:focusable="false"
+                android:layout_weight="1"
+                android:hint="اليوم"
+                 />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/time"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+
+            android:gravity="right"
+            android:textColorHint="#C7C7CD">
+
+            <EditText
+                android:id="@+id/in_time"
+                android:layout_width="100dp"
+                android:focusable="false"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="الزمن" />
+        </android.support.design.widget.TextInputLayout>
+    </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+
+            android:orientation="horizontal">
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="#C7C7CD"
+                android:id="@+id/pr"
+
+                >
+                <AutoCompleteTextView
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionUnspecified"
+                    android:id="@+id/charge"
+                    android:hint="السعر"
+                    android:imeActionLabel="@string/name" />
+
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:weightSum="2"
+            android:padding="5dp"
+
+            android:orientation="horizontal">
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="#C7C7CD"
+                android:id="@+id/fr"
+                android:layout_weight="1"
+
+                >
+                <fr.ganfra.materialspinner.MaterialSpinner
+                    android:id="@+id/from"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:ms_multiline="false"
+                    app:ms_hint="الي"
+                    app:ms_enableFloatingLabel="false"
+                    app:ms_enableErrorLabel="false"
+                    app:ms_floatingLabelText="floating label"
+                    app:ms_thickness="2dp"
+                    app:ms_arrowSize="16dp"
+                    app:ms_alignLabels="false"
+                   />
+
+
+            </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#C7C7CD"
+            android:id="@+id/tode"
+            android:layout_weight="1"
+
+
+            >
+
+            <fr.ganfra.materialspinner.MaterialSpinner
+                android:id="@+id/to"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:ms_multiline="false"
+                app:ms_hint="من"
+                android:paddingLeft="4dp"
+                app:ms_enableFloatingLabel="false"
+                app:ms_enableErrorLabel="false"
+                app:ms_floatingLabelText="floating label"
+                app:ms_thickness="2dp"
+                app:ms_arrowSize="16dp"
+                app:ms_alignLabels="false"
+                />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+
+            android:orientation="horizontal">
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="#C7C7CD"
+
+                >
+                <AutoCompleteTextView
+                    android:maxLines="1"
+                    android:padding="7dp"
+                    android:inputType="text"
+                    android:singleLine="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:imeOptions="actionUnspecified"
+                    android:id="@+id/contact"
+                    android:hint="رقم التواصل"
+                    android:imeActionLabel="@string/name" />
+
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="اضف"
+            android:layout_gravity="center"
+
+            />
+    </LinearLayout>
+
+</FrameLayout>
